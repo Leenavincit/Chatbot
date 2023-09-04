@@ -1,0 +1,45 @@
+ithu vandhu chat.html nu poduko d
+
+
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Chatbot</title>
+	<link rel="icon" href="bot.png" />
+	<link rel="stylesheet" href="style.css" />
+	
+
+</head>
+
+<body>
+
+
+
+
+
+	<div id="container" class="container">
+
+
+		<div id="chat" class="chat">
+			<header>
+				<h1 style="color: rgb(0, 64, 255);"> WELCOME TO APOLLO COLLEGE CHATBOT</h1>
+				
+			
+			</header>
+			<div id="messages" class="messages"></div>
+			<input id="input" type="text" placeholder="type here..." autocomplete="off" autofocus="true" />
+		</div>
+		<img src="bot.png" alt="Robot cartoon" height="500vh">
+		
+	</div>
+</body>
+<script type="text/javascript" src="index.js" ></script>
+<script type="text/javascript" src="constants.js" ></script>
+<script type="text/javascript" src="speech.js"></script>
+
+
+
+</html>
+
+

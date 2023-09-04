@@ -1,0 +1,93 @@
+idhu vandhu constants.js d
+
+
+
+const prompts =[
+  ["hi",
+    "hello","Hello!",
+     "hello there", "Hi there","HI"],
+  [
+    "About college","about college","Apollo College","apollo college","about apollo college"
+  ],
+  [ "placement in college","Wether placements are avaiable in this college",
+  ],
+  [ "hods","HOD'S of college"],
+  [ "what is your name",
+  "Let me know your name"],
+  ["contact number of college","college number"],
+  ["head office",
+  "where is head office"],
+  ["courses offered"],
+  ["fees details","college fees details"],
+  ["hostel facilty",
+     "hostel details"],
+  ["canteen in college",
+  "is there a canteen in college",
+  "canteen in college"],
+  ["college route",
+  "college location"],
+  ["for admission","admission"],
+  ["events in college",
+  "College events",
+  "Celebration in college"],
+  [" BCA hod"],
+  ["hod of BSc computer science"
+  ],
+  [
+    "hod of Bcom CA"
+  ],
+  [" who is the head of the department of BA English"],
+  ["HOD of BA Tamil"],
+  ["hod of Bcom General"],
+  ["what do you think about apollo college",
+   "your opinion about apollo college"],
+  [" head of department in computer science"],
+  ["what are the ug courses offered in this college "],
+  [ "who is the principle of the college"],
+  ["thank you!",
+   "thanks for the inforamation",
+  "thanks"],
+
+  
+]
+const replies = [
+  ["HI! Welcome to apollo chatbot,here you can get information about  apollo college,so you can type your queries  to know about the college"],
+  ["APOLLO ARTS AND SCIENCE COLLEGE which is located in Mevalurkuppam,Near QueensLand"],
+  ["Yes, placements are in apollo college and classes are also taken for the students to improve they confidence while facing their placements"],
+  [ "HOD's of Apollo arts and science college BSc(computer science) : misses bhuvana,  BCA : mrs Rajeshwari,  BA Tamil: mrs Murukeshwari,  BA English : mrs Durga, B COM GENERAL: mrs Vijaya Lakshmi , BBA: mrs Vidhya shree, B COM(computer application) Ramya" ],
+  [ "My name is apollo bot "],
+  ["ph:044-24362183 and by Email EMAIL ID : apollo_education@yahoo.com"],
+  ["Head office is located at 36/16,Srinivasan Street,South Usman Road,T.Nagar(near bus stand),chennai-17. or you can visit link: www.apollocolleges.in"],
+  [" courses offered in apollo college-  BCom(BM),BCom(Accountants & Finance),BBA ,BCA  , in BSc there are ( computer science, visual communication, mathematics, physics, chemistry, biotech, micro-biology) ,BA( english, journalism, publicadministration, criminology & policeadminstration ) ,MCom  , MSc(Maths)","mrs bhuvana"],
+  ["for fees details visit link-  https://collegedunia.com/college/266-apollo-arts-and-science-college-chennai/courses-fees "],
+  ["there is a hostel for college its located in apollo engineering with good facility "],
+  ["yes, there is canteen in college with variety foods"],
+  [" for the route visit this link: https://moovitapp.com/index/en/public_transit-Apollo_Arts_Science_College_in_Poonamallee-Chennai-site_77979323-4612  "],
+  ["for admission you can visit  the link:http://www.apolloarts.in/ "],
+  ["Events in college : Culterals, Sports meet, Fresher's day, Women's day and more"],
+  ["hod of bca is Rajeshwari"],
+  ["hod of bsc computer science is Bhuvana"],
+  [" hod of bcom CA is Ramya "],
+  ["hod of BA English is Durga"],
+  ["hod of  BA Tamil is Dr Murukeshwari"],
+  ["hod of Bcom General is Vijayalakshmi"],
+  ["Apollo college has a good infarstructure and they provide the opporunities to show your talents and you can learn lot in the college"],
+  [" Mrs Bhuvana"],
+  [" bsc (bsc computer science) , bsc(mathematics), bca, Bcom general, BA english, BA tamil"],
+  [" Dr Sudhakar"],
+  ["its my pleasure!",
+    " youe welcome",
+    "bye, come again"]
+]
+
+
+const alternative = [
+  "Same",
+  "Go on...",
+  "Try again",
+  "I'm listening...",
+  "I don't understand :/",
+  "will you please type again",
+  "pardon",
+  "come agian"
+]
